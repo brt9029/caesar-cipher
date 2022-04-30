@@ -14,7 +14,7 @@
 - Receive the encoded/decoded message
 
 # Screenshot
-- Coming Soon!
+- ![image](https://user-images.githubusercontent.com/26530136/166121169-440659cc-8387-4578-b4bc-45f263da3490.png)
 
 # Credits
 - Made by: [brt9029](www.github.com/brt9029 "GitHub Profile Link")
